@@ -18,4 +18,5 @@ def longestCommonPrefix(strs):
 
 l = longestCommonPrefix(strs)
 print(l)
+print(l)
 
